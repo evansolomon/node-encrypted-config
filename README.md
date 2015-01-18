@@ -1,5 +1,7 @@
 # EncryptedConfig
 
+[![Build Status](https://travis-ci.org/evansolomon/node-encrypted-config.svg?branch=master)](https://travis-ci.org/evansolomon/node-encrypted-config)
+
 Safely store secrets in configuration objects.
 
 `npm install encrypted-config`
